@@ -4,8 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <ImageView
-        android:layout_width="70dp"
-        android:layout_height="wrap_content"
+        android:layout_width="94.0dp"
+        android:layout_height="87.0dp"
         android:id="@+id/imageView1"
         android:minWidth="50dp"
         android:minHeight="70dp"

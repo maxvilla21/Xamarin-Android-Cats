@@ -49,6 +49,7 @@ namespace Cats.Client
             Intent intent = new Intent(this, typeof(CatDetailActivity));
 
             intent.PutExtra("Cat", JsonConvert.SerializeObject(cat));
+
             StartActivity(intent);
         }
 
